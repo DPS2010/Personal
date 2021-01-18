@@ -1,0 +1,26 @@
+#Menu {
+    list-style: none;
+    top: 10px;
+    position: absolute;
+    right: 50px;
+    z-index: 100;
+    cursor:pointer;
+}
+.links {
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-variant: small-caps;
+}
+#Games {
+ background-color: red;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+h1 {
+    text-align: center;
+}
